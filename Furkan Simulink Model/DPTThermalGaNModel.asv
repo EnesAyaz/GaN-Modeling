@@ -27,7 +27,7 @@ Lgex = 3e-9;
 Ron = 10;
 Roff = 1;
 PulseAmplitude = 9;
-fsw = 1000e3;
+fsw = 10e03;
 VpulseMax = 6;
 VpulseMin = -3;
 RiseTime = 10e-9;
@@ -35,7 +35,7 @@ FallTime = 10e-9;
 %% Source parameters 
 Vdc = 400;
 % Quantities in below are in percent
-Dtop = 80; % duty cycle of top
+Dtop = 48; % duty cycle of top
 Dbot = 48; % duty cycle of bot
 
 
